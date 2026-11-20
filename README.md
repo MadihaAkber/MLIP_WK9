@@ -1,6 +1,11 @@
 
 # Student Performance Prediction | End-to-End Machine Learning
 
+## Live Demo
+
+Try the deployed application:
+https://mlip-wk9.onrender.com
+
 An end-to-end machine learning project that predicts students' mathematics scores using academic and demographic features.
 
 Developed as part of Week 9 of the MSc Applied Artificial Intelligence programme at the University of Westminster.
